@@ -1,1 +1,1 @@
-# Microsoft-Search-API-Samples
+# Microsoft Search API Samples
